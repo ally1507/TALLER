@@ -11,6 +11,8 @@ if numero1 >= numero2 >= numero3 :
   print (f"numero mayor es : {numero1}")
 elif numero2 >= numero1 >= numero3:
   print (f"numero mayor es : {numero2} ")
+elif numero1== numero2 == numero3:
+  print(f"Los numeros son iguales")
 else :
   print (f"numero mayor es: {numero3}")
 
@@ -20,5 +22,7 @@ if numero1<= numero2 <= numero3 :
   print (f"numero menor es : {numero1}")
 elif numero2 <= numero1 <= numero3:
   print (f"numero menor es: {numero2}")
+elif numero1 == numero2 == numero3 :
+  print(f"los numeros son iguales")
 else :
   print (f"numero menor es : {numero3}")

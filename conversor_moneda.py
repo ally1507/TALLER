@@ -12,7 +12,6 @@ jpy = valor * 28
 
 
 
-
 match opcion :
     case 1:
         print(f"La conversion a dolares es es {cops}")
@@ -20,3 +19,5 @@ match opcion :
         print(f"La conversion a Yenes es: {usd}")
     case 3:
         print(f"La conversion a pesos colombianos es {jpy}")
+    case 4:
+        print("Opcion no valida")

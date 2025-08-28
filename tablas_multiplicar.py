@@ -8,7 +8,7 @@ if 1 <= numero <10 :
     print(f"\n Tabla de multiplicar {numero} \n")
     for i in range (1,10 + 1) :
         tabla = numero * 1
-        print(f"{numero} * {1} = {tabla}")
+        print(f"{numero} * {i} = {tabla}")
 
 else:
     print("ERROR, El numero debe de estar entre 1 y 10")
