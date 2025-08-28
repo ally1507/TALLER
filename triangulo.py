@@ -18,6 +18,7 @@ while isActive:
             input("Presione enter para continuar")
     except ValueError :
         print("Debe ingresar un numero entero.")
+        input("Presione enter para continuar...")
 
 
 
