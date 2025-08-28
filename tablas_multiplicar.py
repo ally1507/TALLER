@@ -12,3 +12,4 @@ if 1 <= numero <10 :
 
 else:
     print("ERROR, El numero debe de estar entre 1 y 10")
+    
